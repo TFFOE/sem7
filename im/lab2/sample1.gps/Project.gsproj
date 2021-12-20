@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<GpssStudioProject FormatVersion="1">
+  <Guid>806b01fc-b248-4abf-9c21-e377f8abec7f</Guid>
+  <Name>sample1.gps</Name>
+  <Description></Description>
+  <CreationDate>2021-10-01T10:32:49.3581538+03:00</CreationDate>
+  <SimModels>
+    <SimModel>
+      <Name>Модель 1</Name>
+      <Description></Description>
+      <Version>1</Version>
+      <CreationDate>01.10.2021 10:32:49</CreationDate>
+      <IsCurrent>True</IsCurrent>
+      <RunDate>01.10.2021 10:47:37</RunDate>
+    </SimModel>
+  </SimModels>
+  <TebsLibraries>
+    <TebsLibrary>
+      <Guid>faa950c8-5b63-447b-985b-636885cef49d</Guid>
+      <Version>1.0.0.0</Version>
+      <Name>Библиотека ТЭБов</Name>
+      <Description></Description>
+      <CreationDate>01.10.2021 10:32:49</CreationDate>
+      <Format>0</Format>
+    </TebsLibrary>
+  </TebsLibraries>
+</GpssStudioProject>
